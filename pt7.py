@@ -35,5 +35,5 @@ def menu_principal():
             aguardar_input()
 
 # --- Inicialização do Sistema ---
-if _name_ == "_main_":
+if __name__ == "__main__":
     menu_principal()
