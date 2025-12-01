@@ -48,6 +48,19 @@ cd tde-linguagem-de-programa-o
 ```bash
 python nome_do_arquivo_principal.py
 ```
+🧠 Como o Sistema Funciona
+
+O programa apresenta um menu interativo no terminal, permitindo que o usuário escolha opções digitando números.
+
+Exemplo:
+
+1. Adicionar tarefa
+2. Listar tarefas
+3. Editar tarefa
+4. Marcar como concluída
+5. Remover tarefa
+0. Sair
+
 
 
 
